@@ -1,66 +1,137 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
+  <img src="https://i.ibb.co/whGFD37s/logo-remove.png" alt="Logo SEPADU" style="border-radius: 50%;">
+  <h1 align="center">🚀 SEPADU 🚀</h1>
+  <p align="center">
+    <strong>Sistem Elektronik Pelayanan Terpadu</strong>
+    <br />
+    Solusi digital modern untuk menyederhanakan proses pengajuan, pelatihan, dan verifikasi.
+  </p>
+  <p align="center">
+    <a href="#"><strong>Lihat Demo »</strong></a>
+    ·
+    <a href="#">Laporkan Bug</a>
+    ·
+    <a href="#">Minta Fitur Baru</a>
+  </p>
+</div>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<!-- SHIELDS -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?style=for-the-badge&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-8.3%2B-777BB4?style=for-the-badge&logo=php" alt="PHP">
+  <img src="https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">
+  <img src="https://img.shields.io/github/stars/fireeemaan/sepadu?style=for-the-badge&logo=github&label=Stars">
+  <img src="https://img.shields.io/badge/Lisensi-MIT-yellow.svg?style=for-the-badge" alt="Lisensi">
+</div>
+<br>
 
-## About Laravel
+> **Misi Proyek:** Menciptakan sebuah platform terintegrasi yang efisien, transparan, dan mudah digunakan bagi admin dan peserta dalam mengelola kegiatan pelatihan dan layanan terpadu.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<details>
+  <summary>📖 Klik untuk Melihat Daftar Isi</summary>
+  <ol>
+    <li><a href="#✨-tentang-proyek">✨ Tentang Proyek</a></li>
+    <li><a href="#-teknologi-yang-digunakan">🛠️ Teknologi yang Digunakan</a></li>
+    <li><a href="#-memulai">🚀 Memulai</a></li>
+    <li><a href="#-fitur-unggulan">🎉 Fitur Unggulan</a></li>
+    <li><a href="#-struktur-database">🗄️ Struktur Database</a></li>
+    <li><a href="#-berkontribusi">💖 Berkontribusi</a></li>
+    <li><a href="#-lisensi">📄 Lisensi</a></li>
+    <li><a href="#-kontak">📬 Kontak</a></li>
+  </ol>
+</details>
+<hr>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## ✨ Tentang Proyek
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![Gambar Cuplikan Layar Proyek](https://i.ibb.co/zWzXdjkr/127-0-0-1-8000.png)
 
-## Learning Laravel
+**SEPADU** (Sistem Elektronik Pelayanan Terpadu) lahir dari kebutuhan untuk mengatasi kerumitan administrasi dalam proses pelayanan. Lupakan tumpukan kertas dan alur kerja yang membingungkan! SEPADU mentransformasi semuanya ke dalam satu aplikasi web yang intuitif dan powerfull.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Sistem ini memfasilitasi seluruh alur kerja, mulai dari:
+* **Peserta:** Mendaftar pelatihan, mengajukan permohonan, hingga memantau riwayat dengan mudah.
+* **Admin:** Mengelola data master, memverifikasi pengajuan secara digital, dan menjadwalkan pelatihan tanpa pusing.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## 🛠️ Teknologi yang Digunakan
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Proyek ini dibangun di atas fondasi teknologi web modern yang andal dan skalabel.
 
-## Laravel Sponsors
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-v10-FF2D20?logo=laravel) ![PHP](https://img.shields.io/badge/PHP-v8.1-777BB4?logo=php) |
+| **Frontend** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3-06B6D4?logo=tailwindcss) ![Alpine.js](https://img.shields.io/badge/Alpine.js-v3-0D9488?logo=alpine.js) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql) |
+| **Tools** | ![Vite](https://img.shields.io/badge/Vite-v4-646CFF?logo=vite) ![NPM](https://img.shields.io/badge/NPM-v9-CB3837?logo=npm) ![Composer](https://img.shields.io/badge/Composer-v2-885610?logo=composer) |
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## 🚀 Memulai
 
-### Premium Partners
+Siap untuk menjalankan SEPADU di lingkungan lokal Anda? Ikuti panduan di bawah ini.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+### Prasyarat
 
-## Contributing
+Pastikan semua dependensi ini sudah terpasang:
+* PHP (versi 8.3 atau lebih tinggi)
+* [Composer](https://getcomposer.org/)
+* [Node.js](https://nodejs.org/) & NPM
+* Database (MySQL)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Instalasi
 
-## Code of Conduct
+1.  **Clone repositori ini**
+    ```sh
+    git clone [https://github.com/fireeemaan/sepadu.git](https://github.com/fireeemaan/sepadu.git)
+    cd sepadu
+    ```
+2.  **Pasang Dependensi (Backend & Frontend)**
+    ```sh
+    composer install
+    npm install
+    ```
+3.  **Konfigurasi Lingkungan**
+    Salin `.env.example` ke `.env` dan sesuaikan koneksi database Anda.
+    ```sh
+    cp .env.example .env
+    php artisan key:generate
+    ```
+4.  **Setup Database**
+    Jalankan migrasi untuk membuat tabel dan seeder untuk mengisi data awal.
+    ```sh
+    php artisan migrate --seed
+    ```
+5.  **Buat Tautan Penyimpanan**
+    ```sh
+    php artisan storage:link
+    ```
+6.  **Jalankan Aplikasi!**
+    * Buka 2 terminal.
+    * Terminal 1 (Vite):
+        ```sh
+        npm run dev
+        ```
+    * Terminal 2 (Laravel Server):
+        ```sh
+        php artisan serve
+        ```
+    🎉 Selamat! Aplikasi Anda sekarang berjalan di `http://127.0.0.1:8000`.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## 🎉 Fitur Unggulan
 
-## Security Vulnerabilities
+-   🔑 **Otentikasi & Hak Akses Ganda**: Sistem login yang aman dengan pemisahan peran antara Admin dan Pengguna.
+-   📊 **Dashboard Interaktif**: Visualisasi data penting untuk pengambilan keputusan yang lebih cepat.
+-   📂 **Alur Pengajuan Digital**: Proses pengajuan yang terstruktur dari A sampai Z, mudah dilacak dan diverifikasi.
+-   🎓 **Manajemen Pelatihan & Pendaftaran**: Pengguna dapat dengan mudah menemukan dan mendaftar pelatihan yang relevan.
+-   📅 **Penjadwalan Cerdas**: Admin dapat mengatur jadwal dengan mudah dan menghindari konflik.
+-   ✅ **Verifikasi Satu Klik**: Modul khusus bagi admin untuk menyetujui atau menolak pengajuan dengan efisien.
+-   👤 **Profil Pengguna**: Pengguna dapat mengelola data pribadi mereka secara mandiri.
+-   📜 **Audit Trail & Riwayat**: Lacak semua aktivitas penting untuk transparansi dan akuntabilitas.
+-   ❓ **Pusat Bantuan (FAQ)**: Kurangi pertanyaan berulang dengan halaman FAQ yang mudah dikelola.
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 🗄️ Struktur Database
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Berikut adalah gambaran singkat dari arsitektur tabel utama:
+* `admins` & `users`: Mengelola akses untuk masing-masing peran.
+* `komoditas`: Tabel master untuk jenis komoditas.
+* `pengajuan`: Jantung dari sistem, mencatat semua pengajuan yang masuk.
+* `jadwal`: Mengatur semua event dan pelatihan.
+* `pendaftaran` & `pesertas`: Menghubungkan pengguna dengan jadwal yang mereka ikuti.
+* `faqs`: Basis pengetahuan untuk pengguna.
