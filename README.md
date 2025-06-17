@@ -79,7 +79,7 @@ Pastikan semua dependensi ini sudah terpasang:
 
 1.  **Clone repositori ini**
     ```sh
-    git clone [https://github.com/fireeemaan/sepadu.git](https://github.com/fireeemaan/sepadu.git)
+    git clone https://github.com/fireeemaan/sepadu.git
     cd sepadu
     ```
 2.  **Pasang Dependensi (Backend & Frontend)**
