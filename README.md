@@ -46,7 +46,7 @@
 
 ![Gambar Cuplikan Layar Proyek](https://i.ibb.co/zWzXdjkr/127-0-0-1-8000.png)
 
-**SEPADU** (Sistem Elektronik Pelayanan Terpadu) lahir dari kebutuhan untuk mengatasi kerumitan administrasi dalam proses pelayanan. Lupakan tumpukan kertas dan alur kerja yang membingungkan! SEPADU mentransformasi semuanya ke dalam satu aplikasi web yang intuitif dan powerfull.
+**SEPADU** (Sistem Pelatihan Terpadu) lahir dari kebutuhan untuk mengatasi kerumitan administrasi dalam proses pelayanan. Lupakan tumpukan kertas dan alur kerja yang membingungkan! SEPADU mentransformasi semuanya ke dalam satu aplikasi web yang intuitif dan powerfull.
 
 Sistem ini memfasilitasi seluruh alur kerja, mulai dari:
 * **Peserta:** Mendaftar pelatihan, mengajukan permohonan, hingga memantau riwayat dengan mudah.
